@@ -1,0 +1,1502 @@
+[{ 
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20 English - M1_JV_English_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20 Hindi - M1_JV_Hindi_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20 English2- M2_JV_English_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M2_JV_English_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20 Hindi2 - M2_JV_Hindi_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M2_JV_Hindi_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "M1_JV_CAM01_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_CAM01_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "M1_JV_CAM02_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_CAM02_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "M1_JV_CAM03_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_CAM03_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "M1_JV_CAM04_DIG_BTS", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/M1_JV_CAM04_DIG_BTS/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",
+"name": "Jio Cricket English", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Cricket_English_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png",
+"name": "TEST5_HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/TEST5_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",
+"name": "RABIN-1", 
+"link": "https://live09p.hotstar.com/mp2/epl2022-23-1540021479/65eeda74f44c4167afe821acc2c28f14/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1673638607~exp=1673639207~data=ip=eaoCpHATTyIBNBjGayYnFx-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=1d8041fb8bd9091d360684e34a4952817313ca58bee104dff13fb756fff45eb6&ttl=86400&type=paid",
+"origin": "https://www.hotstar.com",
+"referrer": "https://www.hotstar.com/",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "hdntl=exp=1673726635~acl=/*~id=576b48553a4eaf178b3dd01e33141db4~data=ip=TxjUlWx7D91RHodEldNykG-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=5c08ed29fbb8d9bb379805a1713101d28f61a5c51a06026993ad1b8571f7ecf0",
+"drmScheme": "widevine", 
+"drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKcAAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHCyEubD92eI_7sxkNkXczXiG7SiIGu8faPxTxjCkEhn8btiI2NbXkfIxrK8-sI2tjv4TzxbqawJZQWt3PztroXMLBaoPs4K4eJeqc_NzHB7LbQN4naPX-kHypOeEzKqi0ZD2wx75rPZY6saHDo4_GsO4TicAwnh5bsTE-89OenDN0WW5_Y" 
+}, {
+"logo": "https://download.logo.wine/logo/Premier_League/Premier_League-Logo.wine.png",
+"name": "RABIN-2", 
+"link": "https://live09p.hotstar.com/mp2/epl2022-23-1540021476/b7afd1a544174e77838e7bf378cf4a7a/index.mpd?aws.manifestfilter=video_height:0-1080&hdnea=st=1673552970~exp=1673553570~data=ip=V2oikmgWwlknmru7imrAaD-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=1cef18f537f8b9fbc794836d62b12a92a9ef5e6a07c973aad1355ba45b39ae03&ttl=86400&type=paid",
+"origin": "https://www.hotstar.com",
+"referrer": "https://www.hotstar.com/",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "hdntl=exp=1673639389~acl=/*~id=cf597e77388925cbb1b7862d2887de63~data=ip=QvLHpM8mHI1jRHl5anmOjC-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=42244926cebe067d44634c1c7eb752433ef6a194c2581288d71d3c7c1c205de7",
+"drmScheme": "widevine", 
+"drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKdoAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHA4ePXcsuSusYa1iVVvj61rwsm_LOxd-HBYNg1S1EuX3-XidjDjRdQafmOvNWL54vxXC6j-q5HzUfLW4nGZ29-HvHqPbUJ2ec3eVfmFFMybdH9jqrR7tjbwM5LdAWTPlPM2p1-MZ7wAg4Q29D0QFqm8YjN4YkjOMhoA77jYOG7jFZZwOaM" 
+}, {
+"logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/ILT20_Logo_Black_and_White.jpg",
+"name": "RABIN-3", 
+"link": "https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8",
+"origin": "https://www.hotstar.com",
+"referrer": "https://www.hotstar.com/",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKaAAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHBSuMFauK_Dwm4WJs1hC9PKdnm4AfcC4YEkK5Fqoa-PEJJDSfwu5Lh267of-x-C0vsGMHKxeqi0UpY_Uy_O2nihH2QW_lX8HOiNgDA7rZqNxUOMzNGB6ezXnbKqTPI-Mosw0qLNUZ5XzJvmKPRqBOAVJdJFWdCuB0jGRjbh55LryBFlDhs" 
+}, {
+"logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/ILT20_Logo_Black_and_White.jpg",
+"name": "RABIN-4", 
+"link": "https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8",
+"origin": "https://www.hotstar.com",
+"referrer": "https://www.hotstar.com/",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKaAAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHBSuMFauK_Dwm4WJs1hC9PKdnm4AfcC4YEkK5Fqoa-PEJJDSfwu5Lh267of-x-C0vsGMHKxeqi0UpY_Uy_O2nihH2QW_lX8HOiNgDA7rZqNxUOMzNGB6ezXnbKqTPI-Mosw0qLNUZ5XzJvmKPRqBOAVJdJFWdCuB0jGRjbh55LryBFlDhs" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNY8kf5LCfz_VpWO6z10VRcOfR0GwgOnnvEg&usqp=CAU",
+"name": "NO-MATCH-NOW", 
+"link": "https://livetvjobayer.xyz/FA-NYS.mp4",
+"origin": "FA CUP",
+"referrer": "FA CUP",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNY8kf5LCfz_VpWO6z10VRcOfR0GwgOnnvEg&usqp=CAU",
+"name": "NO-MATCH-NOW", 
+"link": "https://livetvjobayer.xyz/FA-NYS.mp4",
+"origin": "FA CUP",
+"referrer": "FA CUP",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZKo-aoh6IdkhF7Cmwm71WIjqMdh6ZD41g&usqp=CAU",
+"name": "BPL Live |FC IN", 
+"link": "https://dai.google.com/ssai/event/FHGxQmIJR-qDMSuqlfIvgg/master.m3u8",
+"origin": "https://www.hotstar.com",
+"referrer": "https://www.hotstar.com/",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "hdntl=exp=1672831909~acl=/hls/live/2004258/ranji2022-23/eng/1540020487/15mindvrm0327196054d3e449108402709d8ad3957c04january2023*~data=ip=fevOnYQkhyrZTdOvDzXCvI-userid=ulmpmOr4Cl7c4CBNA22RqqS1CDOLodC7gaO8Uj5JExZV-did=1n36eT4l1J3n5v6425yuE1HC2HdXf3hMmFsoRDbW1oZFEgqir4yBdr7-cc=in-~hmac=b147b3de3885521b7364081e8a37388b620fca7a0196fdfec19eff85bc84635f",
+"drmScheme": "widevine", 
+"drmLicense": "https://ipl.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BgAAABNlKaAAJDIxNmZiODg3LWZjNTUtNGJiNS1iMTg1LTA4MjFiMDk1MjhjNQAAAHDSTbDukrmLxkDBR3fE2kGptVIpGz1R0BgV3mE6L5PRwuEV68C_ten64m-G12svOOLBsLoG5vtzIBAhnojy42ZTSVKe1lePgd27oa06JBFhS-QkQdo0WGihIhLaPgBCGP4KqdvtCuAJw6yvu4MlO-Dbf-bA4pe0Pdn4-6NUdP9vPHMq56Y" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55rXgF2mldne8aL5i00zicsU1Rzs_f5BVRA&usqp=CAU",
+"name": "NZ v PAK |IN", 
+"link": "https://dai.google.com/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8",
+"origin": "SONY LIV 6",
+"referrer": "SONY LIV 6",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzk_j0ki5FfPoZOfU7ElUUjxnlQ7nyb494hA&usqp=CAU",
+"name": "BBL LIVE", 
+"link": "https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8",
+"origin": "SONY LIV 1",
+"referrer": "SONY LIV 1",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/6/65/WWELive16.png/revision/latest?cb=20160830163759",
+"name": "WWE Live •EN", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/6/65/WWELive16.png/revision/latest?cb=20160830163759",
+"name": "WWE Live •HIN", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 1", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD1_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 2", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD2_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 3", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD3_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 4", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD4_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 5", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD5_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 6", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD6_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://v3img.voot.com/dimg2/geo-cms/include/upload/app-v2-images/channel-logos/channel_1539964553_channel_1539959385_voot-e-sports-1.png",
+"name": "VOOT 7", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/SportsHD7_voot_MOB/output03/index.m3u8",
+"origin": "VOOT",
+"referrer": "VOOT",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM"
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -1", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -2", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -3", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -4", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -5", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -6", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JC -7", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "TEST10_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/TEST10_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_CricketEnglishHD_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_CricketEnglishHD_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_CricketHindiHD_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_CricketHindiHD_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_English_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_English_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Hindi_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_Hindi_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Bengali_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_Bengali_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Tamil_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_Tamil_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Malayalam_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_Malayalam_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "JV_SportsHD_Telugu_DIG_MOB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/JV_SportsHD_Telugu_DIG_MOB/Fallback/hls/index.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",
+"name": "Vh1", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Vh1_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",
+"name": "Nick Junior", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Nick_Junior_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
+"name": "Colors Super", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Super_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
+"name": "Nick HD Plus", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Nick_HD_Plus_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
+"name": "Sonic Nickelodeon", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sonic_Nickelodeon_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
+"name": "Sports18 1 HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sports18_1_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+"name": "MTV HD Plus", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/MTV_HD_Plus_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+"name": "MTV Beats HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/MTV_Beats_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+"name": "Colors HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",
+"name": "Colors Tamil HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Tamil_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",
+"name": "Colors Bangla HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Bangla_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",
+"name": "Colors Marathi HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Marathi_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",
+"name": "Colors Kannada HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Kannada_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
+"name": "Colors Oriya", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Oriya_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+"name": "Colors Gujarati", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Gujarati_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+"name": "Colors Cineplex", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Cineplex_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+"name": "Colors Cineplex Bollywood", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+"name": "Rishtey Cineplex", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Rishtey_Cineplex_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7G7UWkTi_qgVtEPQR8zdeSjS5bkZ15qUDZQ&usqp=CAU",
+"name": "Colors Rishtey", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Rishtey_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
+"name": "Colors Infinity HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
+"name": "Comedy Central HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Comedy_Central_HD_voot_MOB/output03/hls/index.m3u8",
+"origin": "VOOT CH",
+"referrer": "VOOT CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+"name": "Sony HD |🌍", 
+"link": "https://dai.google.com/ssai/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+"name": "Sony SAB |🌍", 
+"link": "https://dai.google.com/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+"name": "Sony Marathi SD|🌍", 
+"link": "https://dai.google.com/ssai/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+"name": "Sony Pal |🌍", 
+"link": "https://dai.google.com/ssai/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+"name": "Sony aath |🌍", 
+"link": "https://dai.google.com/ssai/event/j-YEIDwORxubtP_967VcZg/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+"name": "Sony Yay Hindi |🌍", 
+"link": "https://dai.google.com/ssai/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+"name": "Sony Max HD |🌍", 
+"link": "https://dai.google.com/ssai/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+"name": "Sony Wah |🌍", 
+"link": "https://dai.google.com/ssai/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+"name": "Sony MAX2 |🌍", 
+"link": "https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+"name": "Sony Pix HD |🌍", 
+"link": "https://dai.google.com/ssai/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+"name": "Sony BBC Earth HD |🌍", 
+"link": "https://dai.google.com/ssai/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+"name": "Ten 1 |🌍", 
+"link": "https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+"name": "Ten 2 |🌍", 
+"link": "https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+"name": "Ten 3 |🌍", 
+"link": "https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
+"name": "Ten 4 Tamil |🌍", 
+"link": "https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+"name": "Ten 5 |🌍", 
+"link": "https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+"name": "Sony HD |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 ",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+"name": "Sony SAB |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+"name": "Sony Marathi SD|IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+"name": "Sony Pal |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+"name": "Sony aath |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+"name": "Sony Yay Hindi |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+"name": "Sony Max HD |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+"name": "Sony Wah |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+"name": "Sony MAX2 |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+"name": "Sony Pix HD |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+"name": "Sony BBC Earth HD |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
+"name": "Ten 1 |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
+"name": "Ten 2 |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
+"name": "Ten 3 |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
+"name": "Ten 4 Tamil |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+"name": "Ten 5 |IN", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+"origin": "SONY CH",
+"referrer": "SONY CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+"name": "TEN 1 HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+"name": "TEN 3 HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
+"name": "TEN 5 HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Six_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+"name": "Sony HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_HD_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+"name": "Sony Marathi SD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_Marathi_SD_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+"name": "Sony Pal", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_Pal_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+"name": "Sony SAB", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_SAB_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+"name": "Sony Max HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_Max_HD_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+"name": "Sony MAX2", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_MAX2_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+"name": "Sony Wah", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_Wah_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+"name": "Sony Yay Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sony_Yay_Hindi_MOB/WDVCatchup/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",
+"name": "And Pictures HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/And_Pictures_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
+"name": "And TV HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/And_TV_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+"name": "Zee TV HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_TV_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png",
+"name": "Zee Marathi HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Marathi_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+"name": "Zee Cinema HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Cinema_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",
+"name": "Zee Bangla", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Bangla_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",
+"name": "Zee Bangla HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Bangla_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",
+"name": "Zee Bangla Cinema", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Bangla_Cinema_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+"name": "Zee Anmol", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Anmol_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+"name": "Zee Anmol Cinema", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zee_Anmol_Cinema_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",
+"name": "9XM", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/9XM_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
+"name": "Zing", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Zing_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",
+"name": "Dangal", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Dangal_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png",
+"name": "Discovery", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Discovery_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",
+"name": "Discovery Science", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Discovery_Science_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png",
+"name": "Discovery Turbo", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Discovery_Turbo_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",
+"name": "Discovery HD World", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Discovery_HD_World_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
+"name": "Discovery Kids 2", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Discovery_Kids_2_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",
+"name": "Animal Planet HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Animal_Planet_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+"name": "Animal Planet Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Animal_Planet_Hindi_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.png",
+"name": "ID", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/ID_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",
+"name": "Travel XP", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Travel_XP_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",
+"name": "TLC Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/TLC_Hindi_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",
+"name": "NDTV Good Times", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/NDTV_Good_Times_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png",
+"name": "TV 5 Monde", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/TV_5_Monde_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
+"name": "CN Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Cartoon_Network_Hindi_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",
+"name": "CN HD English", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/CN_HD_English_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+"name": "Nick Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+"name": "Pogo Hindi", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Pogo_Hindi_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",
+"name": "Dsports HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Dsports_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png",
+"name": "Sports18 Khel", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Sports18_Khel_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
+"name": "Ten 4 HD Telugu", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten_4_HD_Telugu_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",
+"name": "Ten 4 HD Tamil", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Ten_4_HD_Tamil_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",
+"name": "B4U Music", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/B4U_Music_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",
+"name": "B4U Movies", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/B4U_Movies_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",
+"name": "B4U Kadak", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/B4U_Kadak_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks"
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",
+"name": "Jio Football", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",
+"name": "Jio Football 1", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_1_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png",
+"name": "Jio Football 6", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_6_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png",
+"name": "Jio Football 7", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_7_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png",
+"name": "Jio Football 8", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_8_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}, {
+"logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png",
+"name": "Jio Football Hindi HD", 
+"link": "https://tv.media.jio.com:443/switch/bpk-tv/Jio_Football_Hindi_HD_MOB/WDVLive/index.mpd",
+"origin": "JioTV CH",
+"referrer": "JioTV CH",
+userAgent": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36", 
+"cookie": "COOKIE",
+"drmScheme": "widevine", 
+"drmLicense": "https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999009&videoid=1313&vootid=1313&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxYzRiZWNjNTJjMzc0ZDNhOGZiODFmNzI5MDI0MjZiYyIsImVtYWlsIjoidGhlX2RvbWluaWNzQHlhaG9vLmNvbSIsImRldmljZUlkIjoiY2I5MjIzZWItNmI5Yy00MDU1LWFmODUtMTM4M2RkMWU3ZDNiIiwia1VzZXJJZCI6IjEyODI4NjU4IiwiaWF0IjoxNjcyODk4OTg2LCJleHAiOjE2NzM3NjI5ODYsImlzcyI6InZvb3QifQ.fnI-p27iOrdRCN_yvSv51V6Od9HB0EvqGnGXytpcDks" 
+}]
+
